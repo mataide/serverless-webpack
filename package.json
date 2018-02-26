@@ -42,7 +42,7 @@
     "archiver": "^2.0.0",
     "bluebird": "^3.5.0",
     "fs-extra": "^4.0.2",
-    "glob": "^7.1.2",
+    "globby": "^8.0.1",
     "is-builtin-module": "^1.0.0",
     "lodash": "^4.17.4",
     "semver": "^5.4.1",
